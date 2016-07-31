@@ -93,7 +93,6 @@
                                 class="fa fa-btn fa-sign-out"></i>Logout</a></span>
             @endif
         </header>
-    </div>
     @endif
 
     <!-- Page Content -->
