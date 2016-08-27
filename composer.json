@@ -9,11 +9,11 @@
         "laravel/framework": "5.2.*",
         "yajra/laravel-datatables-oracle": "~6.0",
         "barryvdh/laravel-ide-helper": "^2.1",
-        "infyomlabs/laravel-generator": "dev-master",
+        "infyomlabs/laravel-generator": "5.2.x-dev",
         "laravelcollective/html": "5.2.*",
         "infyomlabs/swagger-generator": "dev-master",
         "jlapp/swaggervel": "dev-master",
-        "infyomlabs/core-templates": "dev-master",
+        "infyomlabs/core-templates": "5.2.x-dev",
         "doctrine/dbal": "~2.3"
     },
     "require-dev": {
