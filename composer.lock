@@ -745,12 +745,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/InfyOmLabs/core-templates.git",
-                "reference": "703a4176c242985020f4edc454b570dc02c3f8d8"
+                "reference": "3a48aa1cd2d496c6cc8281ceffa0e8ce488214a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/InfyOmLabs/core-templates/zipball/703a4176c242985020f4edc454b570dc02c3f8d8",
-                "reference": "703a4176c242985020f4edc454b570dc02c3f8d8",
+                "url": "https://api.github.com/repos/InfyOmLabs/core-templates/zipball/3a48aa1cd2d496c6cc8281ceffa0e8ce488214a9",
+                "reference": "3a48aa1cd2d496c6cc8281ceffa0e8ce488214a9",
                 "shasum": ""
             },
             "require": {
@@ -780,7 +780,7 @@
                 "laravel",
                 "templates"
             ],
-            "time": "2016-08-23 20:06:00"
+            "time": "2016-08-27 13:43:11"
         },
         {
             "name": "infyomlabs/laravel-generator",
