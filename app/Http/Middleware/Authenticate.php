@@ -14,6 +14,10 @@ class Authenticate
      */
     protected $auth;
 
+    protected $loginPath = '/login';
+    protected $redirectTo = '/home';
+    protected $redirectAfterLogout = '/login';
+
     /**
      * Create a new middleware instance.
      *
